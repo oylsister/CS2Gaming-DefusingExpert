@@ -4,7 +4,7 @@
  On plugin load to the server, this plugin will start generate config file at ``addons/counterstrikesharp/configs/plugins/
  ```jsonc
 {
-  "MaxFlashbangCount": 50 // setting how many time player defusing bomb require to unlock this acheivement.
+  "MaxDefusingCount": 50 // setting how many time player defusing bomb require to unlock this acheivement.
 }
  ```
 
